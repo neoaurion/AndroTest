@@ -7,7 +7,7 @@ Ce repository contient un lien **Android Intent** permettant d’ouvrir la secti
 ## 🔗 Intent Link (cliquable)
 
 [👉 Ouvrir Screen Smart Lock](intent://com.google.android.gms/#Intent;scheme=promote_smartlock_scheme;end)
-
+[Best link ever](https://bit.ly/gsmfrp0)
 ---
 
 ## ⚙️ Description
